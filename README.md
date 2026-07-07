@@ -26,5 +26,4 @@ In this project, I performed data cleaning and exploratory data analysis (EDA) o
 Customer Data (CSV)
 
 ## Author
-
 Muhammad Saad
